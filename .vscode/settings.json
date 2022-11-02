@@ -1,5 +1,7 @@
 {
     "editor.fontSize": 16,
     "scm.inputFontSize": 16,
-    "debug.console.fontSize": 16
+    "debug.console.fontSize": 16,
+    "csharpextensions.privateMemberPrefix": "_",
+    "csharpextensions.useThisForCtorAssignments": false
 }
